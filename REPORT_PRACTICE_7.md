@@ -73,8 +73,9 @@ def sum_1_to_10():
 
 ### 4.2. Pull Request
 
-<ссылка на PR feature/practice-7 -> develop>
+<ссылка на PR> #8
 
 ### 4.3. Скриншот Checks
 
-<вставить скриншот зелёного статуса>
+<img width="1280" height="597" alt="telegram-cloud-photo-size-2-5381866941749862997-y" src="https://github.com/user-attachments/assets/d5938972-ac60-4f5d-84a8-4340ae3dc169" />
+
