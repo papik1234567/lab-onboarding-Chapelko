@@ -73,7 +73,7 @@ def sum_1_to_10():
 
 ### 4.2. Pull Request
 
-<ссылка на PR> #8
+#8
 
 ### 4.3. Скриншот Checks
 
