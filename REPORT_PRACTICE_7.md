@@ -73,7 +73,7 @@ def sum_1_to_10():
 
 ### 4.2. Pull Request
 
-[#8]
+(https://github.com/papik1234567/lab-onboarding-Chapelko/pull/8)
 
 ### 4.3. Скриншот Checks
 
