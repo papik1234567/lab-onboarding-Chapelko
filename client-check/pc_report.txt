@@ -1,0 +1,65 @@
+========================================
+       ДИАГНОСТИКА КОМПЬЮТЕРА
+========================================
+
+Дата проверки: 30.10.2026 23:19:35
+
+----------------------------------------
+ОПЕРАЦИОННАЯ СИСТЕМА
+----------------------------------------
+ProductName:		macOS
+ProductVersion:		26.6.2
+BuildVersion:		25G83
+
+----------------------------------------
+ПРОЦЕССОР
+----------------------------------------
+      Chip: Apple M5
+      Total Number of Cores: 10 (4 Super and 6 Efficiency)
+
+----------------------------------------
+ОПЕРАТИВНАЯ ПАМЯТЬ
+----------------------------------------
+Всего памяти: 16 ГБ
+Свободная и неактивная память: около 4 ГБ
+Примечание: значение приблизительное.
+
+----------------------------------------
+СИСТЕМНЫЙ ДИСК
+----------------------------------------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   460Gi    12Gi   379Gi     4%    459k  4,0G    0%   /
+
+----------------------------------------
+УСТАНОВЛЕННЫЕ ПРОГРАММЫ
+----------------------------------------
+App for Tik Tok
+Application Stack Builder
+draw.io
+FL Cloud Plugins
+FL Studio 2026
+Gacha Life
+GarageBand
+Happ
+iMovie
+Installation notes
+Keynote
+Numbers
+OneDrive
+Pages
+PANTUM
+pgAdmin 4
+pgAdmin documentation
+Postgres
+PostgreSQL documentation
+PostgreSQL release notes
+Reload Configuration
+SQL Shell (psql)
+Stepik
+Telegram
+Visual Studio Code
+wpsoffice
+
+========================================
+Отчёт сохранён: pc_report.txt
+========================================
