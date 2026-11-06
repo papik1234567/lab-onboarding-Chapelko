@@ -1,0 +1,216 @@
+========================================
+       АУДИТ КОМПЬЮТЕРА macOS
+========================================
+
+Дата проверки: 06.11.2026 17:10:24
+
+----------------------------------------
+1. ОПЕРАЦИОННАЯ СИСТЕМА
+----------------------------------------
+ProductName:		macOS
+ProductVersion:		26.6.2
+BuildVersion:		25G83
+
+----------------------------------------
+2. ПРОЦЕССОР
+----------------------------------------
+Процессор: Apple M5
+
+----------------------------------------
+3. ОПЕРАТИВНАЯ ПАМЯТЬ
+----------------------------------------
+Всего памяти: 16 ГБ
+
+----------------------------------------
+4. СИСТЕМНЫЙ ДИСК
+----------------------------------------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   460Gi    12Gi   378Gi     4%    459k  4,0G    0%   /
+
+----------------------------------------
+5. СБОР УСТАНОВЛЕННЫХ ПРОГРАММ
+----------------------------------------
+Выполняется поиск приложений...
+Найдено приложений: 94
+
+Activity Monitor
+AirPort Utility
+App for Tik Tok
+App Store
+Application Stack Builder
+Apps
+Archive Utility
+Audio MIDI Setup
+Automator
+Bluetooth File Exchange
+Books
+Boot Camp Assistant
+Calculator
+Calendar
+Chess
+Clock
+ColorSync Utility
+Console
+Contacts
+Dictionary
+Digital Color Meter
+Discord
+Disk Utility
+draw.io
+FaceTime
+FindMy
+FL Cloud Plugins
+FL Studio 2026
+Font Book
+Freeform
+Gacha Life
+Games
+GarageBand
+Grapher
+Happ
+Home
+Image Capture
+Image Playground
+iMovie
+Installation notes
+iPhone Mirroring
+Journal
+Keynote
+Magnifier
+Mail
+Maps
+Messages
+Migration Assistant
+Mission Control
+Music
+News
+Notes
+Numbers
+OneDrive
+Pages
+PANTUM
+Passwords
+pgAdmin 4
+pgAdmin documentation
+Phone
+Photo Booth
+Photos
+Podcasts
+Postgres
+PostgreSQL documentation
+PostgreSQL release notes
+Preview
+Print Center
+QuickTime Player
+Reload Configuration
+Reminders
+Safari
+Screen Sharing
+Screenshot
+Script Editor
+Shortcuts
+Siri
+SQL Shell (psql)
+Stepik
+Stickies
+Stocks
+System Information
+System Settings
+Telegram
+Terminal
+TextEdit
+Time Machine
+Tips
+TV
+Visual Studio Code
+VoiceMemos
+VoiceOver Utility
+Weather
+wpsoffice
+
+----------------------------------------
+6. ПРОВЕРКА БАЗОВОГО ПО
+----------------------------------------
+Проверяются основные категории программ.
+
+[ОФИСНЫЕ ПРОГРАММЫ]
+Требование выполнено:
+Keynote
+Numbers
+Pages
+wpsoffice
+
+[БРАУЗЕРЫ]
+Требование выполнено:
+Safari
+Примечание: Safari является системным компонентом macOS,
+его наличие не доказывает, что рабочее место настроено.
+
+[ЧТЕНИЕ PDF]
+Требование выполнено:
+Preview
+Примечание: Preview является системным компонентом macOS.
+
+[АРХИВАТОРЫ]
+Требование выполнено:
+Archive Utility
+Примечание: Archive Utility является системным компонентом macOS.
+
+[АНТИВИРУСНАЯ ЗАЩИТА]
+Сторонний антивирус не обнаружен.
+macOS имеет встроенные механизмы защиты, включая XProtect и Gatekeeper.
+Необходимость дополнительной защиты определяется политикой организации.
+
+----------------------------------------
+7. ПРОВЕРКА ИЗЛИШНЕГО ПО
+----------------------------------------
+Найденные программы не предлагается удалять автоматически.
+Формулировка носит проверяющий характер: программа не относится
+к базовым офисным задачам и подлежит проверке администратором.
+
+[ИГРОВОЕ ПО]
+Обнаружены программы, требующие проверки:
+Gacha Life
+Games
+
+[ТОРРЕНТ-КЛИЕНТЫ]
+Торрент-клиенты не обнаружены.
+
+[МЕССЕНДЖЕРЫ И ЛИЧНОЕ ОБЩЕНИЕ]
+Обнаружены программы, требующие проверки:
+Discord
+Telegram
+Примечание: в некоторых организациях Telegram или Skype
+являются рабочим инструментом. Требуется уточнение.
+
+[РАЗВЛЕКАТЕЛЬНЫЕ ПРОГРАММЫ]
+Обнаружены программы, требующие проверки:
+FL Studio 2026
+Gacha Life
+iMovie
+Music
+TV
+Примечание: Music и TV являются системными компонентами macOS.
+
+========================================
+8. ИТОГИ АУДИТА
+========================================
+Проверено категорий базового ПО: 5
+Количество рекомендаций по базовому ПО: 0
+Категорий с потенциально излишним ПО: 3
+Найдено установленных приложений: 94
+
+ВАЖНО:
+Вывод скрипта является рекомендацией к проверке, а не
+указанием к удалению. Часть программ может быть установлена
+по согласованию с руководством или использоваться для
+специфических задач. Решение принимает человек, скрипт только
+сужает область для просмотра.
+
+Отчёт сохранён:
+/Users/vladislav/lab-onboarding-Chapelko/client-check/pc_report.txt
+
+========================================
+          АУДИТ ЗАВЕРШЁН
+========================================
+Нажмите Enter для выхода...
